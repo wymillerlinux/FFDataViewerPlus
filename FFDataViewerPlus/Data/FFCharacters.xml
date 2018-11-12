@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Characters>
+  <Character>
+    <Id>1</Id>
+    <FirstName>Terra</FirstName>
+    <LastName>Brandford</LastName>
+    <Age>18</Age>
+    <Gender>Female</Gender>
+    <ImageFileName>terra_brandford.jpg</ImageFileName>
+    <Description>
+      Terra Brandford is the main character in Final Fantasy VI, or Final Fantasy III when the game was first released for the Super Nintendo. Terra has mint green hair and is eighteen years of age. She starts as shy and timid in the beginning of the story but soon becomes a firece warrior at the end. Terra is considered the first female protagonist in the Final Fantasy series.
+    </Description>
+  </Character>
+  <Character>
+    <Id>2</Id>
+    <FirstName>Cloud</FirstName>
+    <LastName>Strife</LastName>
+    <Age>21</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>cloud_strife.jpg</ImageFileName>
+    <Description>
+      Cloud Strife is the main character in Final Fantasy VII for the PlayStation. Cloud has blond spikey hair and a serious aura around him, although he has great friends around him through the game. He has this fantasy of joining SOLDIER, an elite fighting force, which he does and but does not fulfill his dream as he defeats the thing he wishs to become. People might recognize is weapon of choice; the Buster Sword.
+    </Description>
+  </Character>
+  <Character>
+    <Id>3</Id>
+    <FirstName>Sqaull</FirstName>
+    <LastName>Leonhart</LastName>
+    <Age>17</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>squall_leonhart.jpg</ImageFileName>
+    <Description>
+      Squall Leonhart is the main character in Final Fantasy VIII for the PlayStation. Squall has unruly brown hair, light blue eyes and, being a teenager, just likes to shrug things off like he just doesn't care. His catchphrase in the English version is "whatever," aptly called when you're a steretypical teenager.
+    </Description>
+  </Character>
+  <Character>
+    <Id>4</Id>
+    <FirstName>Tidus</FirstName>
+    <LastName>???</LastName>
+    <Age>17</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>tidus.jpg</ImageFileName>
+    <Description>
+      Tidus is the main character in Final Fantasy X for the PlayStation 2. He has disheveled hair and is part of a rising blitzball team. He comes from 1000 years in past so he is childish and naive to the world but matures as the story goes on. 
+    </Description>
+  </Character>
+  <Character>
+    <Id>5</Id>
+    <FirstName>Lightning</FirstName>
+    <LastName>???</LastName>
+    <Age>21</Age>
+    <Gender>Female</Gender>
+    <ImageFileName>lightning.jpg</ImageFileName>
+    <Description>
+      Lightning is the main character in Final Fantasy XIII. She has wavy pink hair, sporting some pale blue eyes. She is independent and determined. She appears thoughoutthe Final Fantasy XIII subseries.
+    </Description>
+  </Character>
+  <Character>
+    <Id>6</Id>
+    <FirstName>Noctis</FirstName>
+    <LastName>Lucis Caelum</LastName>
+    <Age>20</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>noctis.png</ImageFileName>
+    <Description>
+      Noctis Lucis Caelum, or Noct for short, is the main character for Final Fantasy XV for PlayStation 4. He has a boyish appearance with black hair, bangs, and clothed in all black. Similar to Squall, he has a rebelious nature to him.
+    </Description>
+  </Character>
+</Characters>
