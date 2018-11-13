@@ -30,6 +30,10 @@ namespace FFDataViewerPlus
             lbl_gender.Content = "Gender: " + _character.Gender.ToString();
             lbl_description.Content = _character.Description;
             //img_charimage.Source = _character.ImageFileName;
+
+            //var uri = new Uri("pack://application:,,,/Images/" + character.ImageFileName);
+            //var bitmap = new BitmapImage(uri);
+            //img_charimage.Source = bitmap;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

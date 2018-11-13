@@ -67,6 +67,10 @@ namespace FFDataViewerPlus
 
             //DetailWindow detail = new DetailWindow(character);
             //detail.ShowDialog();
+
+            Character character = _characters[dataGridFF.SelectedIndex];
+            DetailWindow detailWindow = new DetailWindow(character);
+            detailWindow.Show();
         }
 
         private void btn_search_Click(object sender, RoutedEventArgs e)
