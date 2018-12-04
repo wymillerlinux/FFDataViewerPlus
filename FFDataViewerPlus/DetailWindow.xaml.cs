@@ -28,7 +28,7 @@ namespace FFDataViewerPlus
             lbl_age.Content = "Age: " + _character.Age;
             lbl_title.Content = _character.FullName();
             lbl_gender.Content = "Gender: " + _character.Gender.ToString();
-            lbl_description.Content = _character.Description;
+            txtblk_description.Text = _character.Description;
             //img_charimage.Source = _character.ImageFileName;
 
             //var uri = new Uri("pack://application:,,,/Images/" + character.ImageFileName);
